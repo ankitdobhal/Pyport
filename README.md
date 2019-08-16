@@ -11,9 +11,9 @@
   
   ## Key-Features
   
-  -> print("Flexible")
-  -> print("Genius")
-  -> print("Automation of python")
+  - print("Flexible")
+  - print("Genius")
+  - print("Automation of python")
   
   ## Vision
   #### print("Vision is very simple just to provide some python module power")
