@@ -16,7 +16,7 @@
   -> print("Automation of python")
   
   ## Vision
-  ###### print("Vision is very simple just to provide some python module power")
+  #### print("Vision is very simple just to provide some python module power")
   
   
   ## Contribution
@@ -31,7 +31,7 @@
  You can install and run pyport in follwoing steps:
  note:Python have to be installed your system
  - clone repo from github
-   git clone 
+   git clone https://github.com/ankitdobhal/Pyport.git
    
   - Inside the folder run pyport.py file
     --> python pyport.py [ip_address]
