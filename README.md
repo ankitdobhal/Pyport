@@ -35,4 +35,4 @@
    
   - Inside the folder run pyport.py file
     --> python pyport.py [ip_address]
-    ![Alt Text](https://thepracticaldev.s3.amazonaws.com/i/nxpriye1uftr9dc6pch7.JPG)
+    ![Alt Text](https://thepracticaldev.s3.amazonaws.com/i/zsmi8hgeocfv236ewtjo.JPG)
