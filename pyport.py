@@ -4,7 +4,7 @@ import sys
 from pyfiglet import Figlet
 logo = Figlet(font='graffiti')
 print(logo.renderText('Pyport Scanner'))
-
+print('\nVersion 1.0 ...')
 #argument validator
 if len(sys.argv) != 2:
     host = input("Enter the name of host:\n")
