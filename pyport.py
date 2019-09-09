@@ -22,6 +22,6 @@ port_open = "The port 80 is: "+nm_scanner['scan'][sys.argv[1]]['tcp'][80]['state
 
 method_scan = "This method of scanning is: "+nm_scanner['scan'][sys.argv[1]]['tcp'][80]['reason']+".\n"
 
-
+print(host_is_up,port_open,method_scan)
 
 
