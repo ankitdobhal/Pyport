@@ -14,7 +14,7 @@ if len(sys.argv) != 2:
 
 nm_scan = nmap.PortScanner()
 print('\nPyport Running...\n')
-nm_scanner = nm_scan.scan(sys.argv[1],'22,80,25,53',arguments='-O')
+nm_scanner = nm_scan.scan(sys.argv[1],'80',arguments='-O')
 
 host_is_up = "The host is: "+nm_scanner['scan'][sys.argv[1]]['status']['state']+".\n"
 
